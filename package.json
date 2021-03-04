@@ -1,0 +1,25 @@
+{
+  "name": "millionaire",
+  "version": "1.0.0",
+  "description": "millionaire game app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mednajjar/millionaire.git"
+  },
+  "keywords": [
+    "express",
+    "react",
+    "js",
+    "mongodb"
+  ],
+  "author": "Med-Najjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mednajjar/millionaire/issues"
+  },
+  "homepage": "https://github.com/mednajjar/millionaire#readme"
+}
